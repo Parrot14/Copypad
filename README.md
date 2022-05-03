@@ -12,7 +12,7 @@ Add a copy button to your favourite "Wattpad" stories.
 ![Copy button](/README.resources/copy_button.png)
 
 ## Add as temporary addon
-Donwload the repository and extract it wherever you want, the extension is contained inside the src folder.
+Download the repository and extract it wherever you want, the extension is contained inside the src folder.
 
 Follow the instruction provided for the major web browser providers.
 - ![Firefox and forks](https://extensionworkshop.com/documentation/develop/temporary-installation-in-firefox/)
