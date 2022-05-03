@@ -1,0 +1,21 @@
+{
+
+  "manifest_version": 2,
+  "name": "Copypad",
+  "version": "1.0",
+
+  "description": "Text extractor for wattpad",
+
+  "icons": {
+    "48": "icons/copy-48.jpg",
+		"96": "icons/copy-96.jpg"
+  },
+
+  "content_scripts": [
+    {
+      "matches": ["*://*.wattpad.com/*"],
+      "js": ["copypad.js"]
+    }
+  ]
+
+}
